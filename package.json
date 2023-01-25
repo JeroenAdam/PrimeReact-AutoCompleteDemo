@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "0.27.2",
+    "primeflex": "^3.1.0",
+    "primeicons": "^5.0.0",
+    "primereact": "^7.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-transition-group": "^4.4.1"
+  },
+  "main": "src/demo/AutoCompleteDemo.js"
+}
